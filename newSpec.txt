@@ -1,0 +1,46 @@
+TROLLEY
+Vertical space above bottom of beam taken by trolley:
+
+74mm vertical space = 2.9"
+Leave 3.5 inches free.
+
+WOOD CAPACITIES
+Douglas Fir Capacities
+	Compressive 4,200 kPa
+	Tension 7,200 kPa
+	
+	
+White Pine
+	1,500 compressive
+	4,700 shear
+	1,700 tension perpendicular to grain
+	
+
+AWC-LRFD2005 Manual
+p. 35, Table M4.5-3b
+
+Bending Member - 4x6, doug fir
+M'   20,600 lb-in   moment capacity
+Cr M' 23,700 lb-in  
+V' 2,310  shear capacity
+
+STEEL PROPERTIES
+	- Beam is 8x18.4#
+	- Web thickness 0.27
+
+
+
+
+
+STEEL CONNECTIONS:
+
+FR Top-flange connection 12-20. 
+	On side plates, use full braced flange connection on both top and bottom	
+	On hangers, Use partial connection
+
+
+SIDE PLATES:
+	- Build up a C-channel with 1/4" thick angle iron
+	- 
+
+
